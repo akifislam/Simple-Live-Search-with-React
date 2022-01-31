@@ -3,8 +3,8 @@ import "./tweet.css"
 
 function Tweet(props){
 
-    const style = [{
-        backgroundColor:'aqua'},
+    const style = [
+        {backgroundColor:'aqua'},
         {backgroundColor:'pink'},
     ];
 
