@@ -21,5 +21,5 @@ The page will reload if you make edits.
 
 
 ## Credit
-- PedroTech[https://youtu.be/mZvKPtH9Fzo]
+- [PedroTech](https://youtu.be/mZvKPtH9Fzo)
 
